@@ -1,2 +1,2 @@
 # hello-world
-Este repositório é para praticar o fluxo do GitHub.
+Realizando a atividade MAPA de Tópicos Especiais em Eng. de Software 2
